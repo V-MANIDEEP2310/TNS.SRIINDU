@@ -6,7 +6,7 @@ public class Human {
 	public static void main(String [] args)
 	{
 		Human h =new Human ();
-		Scanner sc=new Scanner(System.in);
+		Scanner sc =new Scanner(System.in);
 		Scanner sc1 =new Scanner(System.in);
 		Scanner sc2 =new Scanner(System.in);
 		System.out.println("Enter your name");

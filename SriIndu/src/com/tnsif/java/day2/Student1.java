@@ -43,7 +43,7 @@ public class Student1 {
 		Student1 s =new Student1();
 		s.setSname("MANIDEEP");
 		s.setSid(1259);
-		s.setSmail("manideepvasantha");
+		s.setSmail("manideepvasantha@gmail.com");
 		s.setSno(9347461914L);
 		
 		System.out.println("Student Name:"+s.getSname());
